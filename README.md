@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MPKortu
 - 👀 I’m interested in Web Programming, Mobile App Developments, Python and  Data Analytics
 - 🌱 I’m currently learning Python and Data Analytics. 
-- 💞️ I’m not too sure I know what want to collaborate on yet  
+- 💞️ I’m not too sure I know what I want to collaborate on yet  
 - 📫 I can reached me via Linkedin @ Moses Kortu Jr. 
 
 <!---
